@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aneel_Work\\TestGit\\TestGit\\TestGit\\TestGit.csproj",
+      "projectUniqueName": "C:\\Aneel_Work\\TestGit2\\TestGit\\TestGit\\TestGit\\TestGit.csproj",
       "projectName": "TestGit",
-      "projectPath": "C:\\Aneel_Work\\TestGit\\TestGit\\TestGit\\TestGit.csproj",
+      "projectPath": "C:\\Aneel_Work\\TestGit2\\TestGit\\TestGit\\TestGit\\TestGit.csproj",
       "packagesPath": "C:\\Users\\gipl\\.nuget\\packages\\",
-      "outputPath": "C:\\Aneel_Work\\TestGit\\TestGit\\TestGit\\obj\\",
+      "outputPath": "C:\\Aneel_Work\\TestGit2\\TestGit\\TestGit\\TestGit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
